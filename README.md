@@ -1,4 +1,4 @@
-According to data from <a href="https://jsonplaceholder.typicode.com/users" target="_blank">jsonplaceholder../users</a> for <b>login</b> you can use such params:
+According to data from <a href="https://jsonplaceholder.typicode.com/users" target="_blank" >jsonplaceholder../users</a> for <b>login</b> you can use such params:
 <ul>
 <li>username: "Bret" && phone: "1-770-736-8031 x56442"</li>
 <li>username: "Antonette" && phone: "010-692-6593 x09125"</li>
