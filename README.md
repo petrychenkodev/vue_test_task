@@ -1,4 +1,4 @@
-<a href="https://vue-test-task-smoky.vercel.app/">Click to visit the app online</a>
+<a href="https://vue-test-task-smoky.vercel.app/">Click to visit the app online</a><br/>
 According to data from <a href="https://jsonplaceholder.typicode.com/users" target="_blank" >jsonplaceholder../users</a> for <b>login</b> you can use such params:
 <ul>
 <li>username: "Bret" && phone: "1-770-736-8031 x56442"</li>
