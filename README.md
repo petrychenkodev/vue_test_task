@@ -5,3 +5,5 @@ According to data from <a href="https://jsonplaceholder.typicode.com/users" targ
 <li>username: "Samantha" && phone: "1-463-123-4447"</li>
 </ul>
 and so on..
+
+<a href="https://vue-test-task-smoky.vercel.app/"><h3>Click to visit the app online</h3></a>
