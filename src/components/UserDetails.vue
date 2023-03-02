@@ -163,6 +163,8 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
+  width: 100px;
+  height: 68px;
 }
 
 .alert {
